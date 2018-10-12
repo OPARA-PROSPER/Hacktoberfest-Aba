@@ -19,3 +19,8 @@ sample:
 - name: Josh Pasholk
 - GitHub: [Jpasholk](https://guthub.com/jpasholk)
 ---
+
+---
+- name: Gabriel De Andrade Duarte
+- GitHub: [gabrielduuarte](https://github.com/gabrielduuarte)
+---
