@@ -15,3 +15,7 @@ sample:
 - GitHub: [OPARA-PROSPER](https://github.com/OPARA-PROSPER)
 ---
 
+---
+- name: Mariana Ferreira Rocha
+- GitHub: [MarianaFRocha](https://github.com/MarianaFRocha)
+---
