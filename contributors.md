@@ -5,8 +5,8 @@ Add your Name and GitHub username
 
 sample:
 
-name: john Doe
-GitHub: [USERNAME](profile url)
+* Name: john Doe
+* GitHub: [USERNAME](profile url)
 
 ## Contributors
 
